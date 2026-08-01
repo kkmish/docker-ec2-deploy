@@ -74,6 +74,22 @@ docker-ec2-deploy/
 - Zero manual deployment after Git Push
 - Docker image built automatically
 
+## Project Screenshots
+
+### GitHub Repository
+![Repository](images/github-repository.png)
+
+### GitHub Actions Pipeline Success
+![GitHub Actions](images/github-actions-success.png)
+
+### Docker Container Running
+![Docker PS](images/docker-ps.png)
+
+### Docker Images
+![Docker Images](images/docker-images.png)
+
+### Application Running on AWS EC2
+![Application](images/application-running.png)
 ---
 
 ## Author

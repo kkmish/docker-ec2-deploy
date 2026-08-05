@@ -90,6 +90,8 @@ docker-ec2-deploy/
 
 ### Application Running on AWS EC2
 ![Application](images/application-running.png)
+
+Redeployed on a new AWS EC2 instance.
 ---
 
 ## Author
